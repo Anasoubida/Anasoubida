@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasoubida" alt="anasoubida" /></a> </p>
 
+- 🔭 I’m currently working as **Data scientist/ AI engineer at ATMO Grand Est**
+
 - 🌱 I’m currently learning **AI, ML, MLOPS, Data engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anasoubida](https://github.com/Anasoubida)
